@@ -9,25 +9,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "结构型模式", "结构�
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "行为型模式", "行为型模式", "{A8D11EE4-AA19-4BA2-9932-32276FFE588F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单例模式", "单例模式\单例模式.csproj", "{8F0C0B65-911C-4877-9E9E-836903E75A48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "单例模式", "单例模式\单例模式.csproj", "{8F0C0B65-911C-4877-9E9E-836903E75A48}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "原型模式", "原型模式\原型模式.csproj", "{D2252CF2-4587-42CE-B061-D54EB20F607C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "原型模式", "原型模式\原型模式.csproj", "{D2252CF2-4587-42CE-B061-D54EB20F607C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "工厂模式", "工厂模式\工厂模式.csproj", "{67213EC4-21FB-43E0-B623-64FC4E281897}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "工厂模式", "工厂模式\工厂模式.csproj", "{67213EC4-21FB-43E0-B623-64FC4E281897}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象工厂模式", "抽象工厂模式\抽象工厂模式.csproj", "{A28BE9FE-B7EA-42FD-B6D3-6804F1522A92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "抽象工厂模式", "抽象工厂模式\抽象工厂模式.csproj", "{A28BE9FE-B7EA-42FD-B6D3-6804F1522A92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "建造者模式", "建造者模式\建造者模式.csproj", "{7096281E-8141-45A4-A670-C2B3B8C8D2BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "建造者模式", "建造者模式\建造者模式.csproj", "{7096281E-8141-45A4-A670-C2B3B8C8D2BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "适配器模式", "适配器模式\适配器模式.csproj", "{4B56D376-333A-46B6-8D97-3AAC61CC22D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "适配器模式", "适配器模式\适配器模式.csproj", "{4B56D376-333A-46B6-8D97-3AAC61CC22D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "桥接模式", "桥接模式\桥接模式.csproj", "{2FA93F89-EF3D-47B0-BAA8-92CC68E2F907}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "桥接模式", "桥接模式\桥接模式.csproj", "{2FA93F89-EF3D-47B0-BAA8-92CC68E2F907}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "组合模式", "组合模式\组合模式.csproj", "{3DC6CA63-FD08-41BC-8BE8-53EDFCE05EEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "组合模式", "组合模式\组合模式.csproj", "{3DC6CA63-FD08-41BC-8BE8-53EDFCE05EEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "装饰模式", "装饰模式\装饰模式.csproj", "{79AB3057-3A0B-4856-A5D2-6E831CDAA266}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "装饰模式", "装饰模式\装饰模式.csproj", "{79AB3057-3A0B-4856-A5D2-6E831CDAA266}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "外观模式", "外观模式\外观模式.csproj", "{D420BC4C-27C8-4EC4-9FD4-F50D437D3FDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "外观模式", "外观模式\外观模式.csproj", "{D420BC4C-27C8-4EC4-9FD4-F50D437D3FDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "享元模式", "享元模式\享元模式.csproj", "{153269D7-7DD2-4BA6-BBDB-9B7B2DD80280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "代理模式", "代理模式\代理模式.csproj", "{F6CFFB05-34FD-4D9B-9F0A-5E57C4EE0763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "模板方法模式", "模板方法模式\模板方法模式.csproj", "{E6FE073C-B0D4-457D-AF83-69DDB4DB2E68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "责任链模式", "责任链模式\责任链模式.csproj", "{C449F55D-A626-4109-B504-8A97B141F8EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +83,22 @@ Global
 		{D420BC4C-27C8-4EC4-9FD4-F50D437D3FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D420BC4C-27C8-4EC4-9FD4-F50D437D3FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D420BC4C-27C8-4EC4-9FD4-F50D437D3FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{153269D7-7DD2-4BA6-BBDB-9B7B2DD80280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{153269D7-7DD2-4BA6-BBDB-9B7B2DD80280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{153269D7-7DD2-4BA6-BBDB-9B7B2DD80280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{153269D7-7DD2-4BA6-BBDB-9B7B2DD80280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6CFFB05-34FD-4D9B-9F0A-5E57C4EE0763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6CFFB05-34FD-4D9B-9F0A-5E57C4EE0763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6CFFB05-34FD-4D9B-9F0A-5E57C4EE0763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6CFFB05-34FD-4D9B-9F0A-5E57C4EE0763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6FE073C-B0D4-457D-AF83-69DDB4DB2E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FE073C-B0D4-457D-AF83-69DDB4DB2E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FE073C-B0D4-457D-AF83-69DDB4DB2E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FE073C-B0D4-457D-AF83-69DDB4DB2E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C449F55D-A626-4109-B504-8A97B141F8EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C449F55D-A626-4109-B504-8A97B141F8EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C449F55D-A626-4109-B504-8A97B141F8EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C449F55D-A626-4109-B504-8A97B141F8EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +114,10 @@ Global
 		{3DC6CA63-FD08-41BC-8BE8-53EDFCE05EEA} = {07A8BED5-D722-4676-AD2F-B8C5CBE3C770}
 		{79AB3057-3A0B-4856-A5D2-6E831CDAA266} = {07A8BED5-D722-4676-AD2F-B8C5CBE3C770}
 		{D420BC4C-27C8-4EC4-9FD4-F50D437D3FDC} = {07A8BED5-D722-4676-AD2F-B8C5CBE3C770}
+		{153269D7-7DD2-4BA6-BBDB-9B7B2DD80280} = {07A8BED5-D722-4676-AD2F-B8C5CBE3C770}
+		{F6CFFB05-34FD-4D9B-9F0A-5E57C4EE0763} = {07A8BED5-D722-4676-AD2F-B8C5CBE3C770}
+		{E6FE073C-B0D4-457D-AF83-69DDB4DB2E68} = {A8D11EE4-AA19-4BA2-9932-32276FFE588F}
+		{C449F55D-A626-4109-B504-8A97B141F8EB} = {A8D11EE4-AA19-4BA2-9932-32276FFE588F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB0C21F7-3DEC-4D4D-AAF0-25FA534D0EC6}
